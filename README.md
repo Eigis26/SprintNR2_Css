@@ -21,7 +21,7 @@ Tasks I had to do :
 * Create Github readme.md with discription inside
 * Web page must be hosted in Github pages
 
-### Installing
+## Installing
 
 Website preview link : https://eigis26.github.io/SprintNR2_Css/
 
